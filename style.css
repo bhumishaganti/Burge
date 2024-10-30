@@ -1,0 +1,136 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.out1{
+    border: solid 1px;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+
+}
+#in1,#in2{
+    border: solid 1px;
+    height: 100px;
+}
+#in1{
+    width: 100px;
+    margin-left: 100px;
+}
+#in2{
+    width: 550px;
+}
+ul{
+    list-style: none;
+}
+ul li{
+    border: solid 1px;
+    height: 100px;
+    width: 100px;
+    float: left;
+    text-align: center;
+    line-height: 100px;
+}
+ul li a{
+    font-size: 21px;
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+}
+ul li a:hover{
+    color: orangered;
+    font-size: 23px;
+}
+.out2{
+    border: solid 1px;
+    height: 600px;
+    background-image: url(fries.jpg);
+    background-repeat: no-repeat;
+    background-size: 1400px 600px;
+}
+#welcome{
+    color: white;
+    font-size: 50px;
+    margin-left: 20px;
+    margin-top: 50px;
+    text-shadow: 3px 3px 5px white;
+}
+#Taste{
+    color: white;
+    font-size: 35px;
+    margin-left: 20px;
+    margin-top: 30px;
+    text-shadow: 3px 3px 5px;
+
+}
+#Menu{
+    margin-left: 20px;
+    margin-top: 30px;
+    height: 50px;
+    width: 200px;
+    background-color: blanchedalmond;
+    color: black;
+    font-size: 18px;
+    font-weight: bold;
+}
+#Menu:hover{
+    background-color: orange;
+}
+.out3{
+    border: solid 1px;
+    height: 450px;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: black;
+}
+#in3,#in4{
+    border: solid 1px;
+    height: 450px;
+}
+#in3{
+    width: 450px;
+}
+#in4{
+    width: 600px;
+}
+#about{
+    font-size: 45px;
+    margin-top: 10px;
+    color: white;
+}
+#text1{
+    font-size: 20px;
+    margin-top: 20px;
+    color: white;
+}
+#Menu:hover{
+    background-color: aquamarine;
+    color: wheat;
+}
+.out4{
+    border: solid 1px;
+    height: 600px;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: black;
+}
+#in5,#in6,#in7{
+    border: solid 1px;
+    height: 600px;
+    width: 350px;
+}
+#img1,#img3{
+    margin-top: 65px;
+}
+#img2{
+    margin-top: 30px;
+}
+#Menu1{
+    color: white;
+    text-align: center;
+}
+#Menu2{
+    color: white;
+    font-size: 18px;
+}
